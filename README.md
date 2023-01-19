@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Abdullah Al Mahmud
 #### Student of CSE
-(https://www.linkedin.com/in/abdullah-al-mahmud-873181236/overlay/background-image/)
 
 I am Abdullah Al Mahmud. B.Sc in CSE at Daffodil International University.
 
