@@ -1,30 +1,76 @@
-### Hi there 👋, I'm Abdullah Al Mahmud
-#### Student of CSE
+<h1 align="center">Hi there 👋, I'm Abdullah Al Mahmud</h1>
+<h3 align="center">🎓 CSE Student | 💻 Aspiring Android Developer | 🌐 Tech Enthusiast</h3>
 
-I am Abdullah Al Mahmud. B.Sc in CSE at Daffodil International University.
-
-Skills: C / C++/ JAVA/HTML/CSS/Linux/Figma
-
-- 🌱 I’m currently learning Android Development 
-- 📫 How to reach me: mahmud15-5658@diu.edu.bd 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abdullah-al-mahmud-873181236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdullah-al-mahmud-873181236/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19112820/abdullah-al-mahmud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19112820/abdullah-al-mahmud" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdullahalmahmud5658/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/abdullahalmahmud5658/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/mahmud5658">
+    <img src="https://komarev.com/ghpvc/?username=mahmud5658&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud5658" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahmud5658)  
+### 🧑‍💻 About Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud5658)](https://github.com/anuraghazra/github-readme-stats)
+🎓 I'm currently pursuing a **B.Sc in Computer Science & Engineering** at *Daffodil International University (DIU)*.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmud5658&show_icons=true)  
+🌱 I'm currently learning **Android Development (Java, Kotlin, XML, Jetpack)**.
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mahmud5658)  
+📫 Reach me at: **mahmud15-5658@diu.edu.bd**
 
+---
+
+### 🚀 Skills & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmud5658&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud5658&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdullah-al-mahmud-873181236/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  </a>
+  <a href="https://stackoverflow.com/users/19112820/abdullah-al-mahmud" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="30" />
+  </a>
+  <a href="https://www.facebook.com/abdullahalmahmud5658/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="30" width="30" />
+  </a>
+  <a href="https://github.com/mahmud5658" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Activity Graph
+
+<!-- You may need to set this up from: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahmud5658&bg_color=1a1b27&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
