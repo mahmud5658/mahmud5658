@@ -1,45 +1,62 @@
-<h1 align="center">Hi there 👋, I'm Abdullah Al Mahmud</h1>
-<h3 align="center">🎓 CSE Student | 💻 Aspiring Android Developer | 🌐 Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Abdullah Al Mahmud</h1>
+<h3 align="center">🚀 Full Stack App Developer | Flutter & Django | CSE Student</h3>
 
 <p align="center">
-  <a href="https://github.com/mahmud5658">
-    <img src="https://komarev.com/ghpvc/?username=mahmud5658&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud5658" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=mahmud5658&label=Profile%20views&color=0e75b6&style=flat" alt="mahmud5658" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-🎓 I'm currently pursuing a **B.Sc in Computer Science & Engineering** at *Daffodil International University (DIU)*.
-
-🌱 I'm currently learning **Android Development (Java, Kotlin, XML, Jetpack)**.
-
-📫 Reach me at: **mahmud15-5658@diu.edu.bd**
+- 🎓 **B.Sc in Computer Science & Engineering**, Daffodil International University  
+- 💼 **Full Stack App Developer** – Mobile (Flutter) & Web (Django/HTML/CSS/JS)  
+- 🌱 Currently learning **Firebase**, **REST API**, **CI/CD**, **Clean Architecture**, **Linux DevOps**  
+- 💡 Passionate about building scalable, user-centric apps  
+- 📫 Reach me: **mahmud15-5658@diu.edu.bd**
 
 ---
 
-### 🚀 Skills & Tools
+### 🚀 Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+#### 🔹 Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+#### 🔸 Frameworks & Libraries
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### 🛠️ Tools & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmud5658&show_icons=true&theme=github_dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud5658&layout=compact&theme=github_dark&hide_border=true" width="48%"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmud5658&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmud5658&layout=compact&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahmud5658&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -47,30 +64,22 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdullah-al-mahmud-873181236/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" />
+  <a href="https://www.linkedin.com/in/abdullah-al-mahmud-873181236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/19112820/abdullah-al-mahmud" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" alt="Stack Overflow" height="30" width="30" />
+  <a href="https://stackoverflow.com/users/19112820/abdullah-al-mahmud" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/abdullahalmahmud5658/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="Facebook" height="30" width="30" />
+  <a href="https://www.facebook.com/abdullahalmahmud5658/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://github.com/mahmud5658" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/github.svg" alt="GitHub" height="30" width="30" />
+  <a href="https://github.com/mahmud5658" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📈 GitHub Activity Graph
-
-<!-- You may need to set this up from: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mahmud5658&bg_color=1a1b27&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+### 💡 Quote of the Day
+> *“First, solve the problem. Then, write the code.” – John Johnson*
 
